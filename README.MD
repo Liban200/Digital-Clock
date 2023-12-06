@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for a digital clock using HTML, CSS, and JavaScript:
-
----
-
 # Digital Clock
 
 A simple digital clock created with HTML, CSS, and JavaScript.
@@ -46,9 +42,4 @@ This project is a straightforward digital clock implementation that displays the
 2. The digital clock will be displayed, showing the current time.
 3. The clock updates in real-time.
 
-Feel free to customize the styles or add additional features based on your preferences.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
