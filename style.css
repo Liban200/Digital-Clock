@@ -77,3 +77,15 @@
     left: 50%;
     transform: translateX(-50%);
 }
+
+#hrs::after {
+    content: 'HOURS';
+}
+
+#min::after {
+    content: 'MINS';
+}
+
+#sec::after {
+    content: 'SEC';
+}
